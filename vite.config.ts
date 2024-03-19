@@ -6,6 +6,6 @@ export default defineConfig({
   plugins: [react()],
   base: "/chriisdurantechnologies/",
   build:{
-    outDir: 'build'
+    outDir: 'dist'
   }
 })
