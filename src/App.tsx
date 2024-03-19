@@ -3,7 +3,7 @@ function App() {
     <>
       <div>
         <h1>chriisdurantechnologies</h1>
-        <h1>Be Welcome!</h1>
+        <h1>Be Welcome Home!</h1>
       </div>
     </>
   );
