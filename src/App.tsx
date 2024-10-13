@@ -9,7 +9,8 @@ import waitingSound from '../public/sounds/WaitingMusic.mp3';
 
 function App() {
   // for play the music:
-  const audioRef = useRef(null);
+  const audioRef = useRef<HTMLAudioElement | null>(null); // Cambiado aquí
+
   const handleAudioPlay = async () => {
     if (audioRef.current) {
       try {
