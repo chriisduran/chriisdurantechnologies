@@ -1,4 +1,3 @@
-import React, { useEffect, useRef } from 'react';
 import './styles/main.css';
 import patreonLogo from '../public/images/logos/img-patreon-logo.png';
 import buyMeACoffeeLogo from '../public/images/logos/img-buymeacoffee-logo.png';
